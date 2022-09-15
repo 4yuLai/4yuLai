@@ -27,6 +27,7 @@
  - Newsletter Signup https://peaceful-bayou-64645.herokuapp.com/
 
 <h1> Ex-Academic Experience </h1>
+
 2021
  - Poster for Academic Meeting
  - Bachelor Degree's Thesis
