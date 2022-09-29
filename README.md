@@ -19,6 +19,7 @@
 <h1> Projects </h1>
 
 2022
+ - Amazon Clone https://clone-7756a.web.app/
  - Personal Website https://4yulai.github.io/
  - DKeeper
  - DBank
