@@ -10,8 +10,8 @@
 
 <h2>🛠 Tech Stack</h2>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | React | Node.js | Express | EJS | API | Authentication| OAuth 
-- 🛢 &nbsp; MySQL | PostgreSQL | MongoDB | Mongoose 
+- 🌐 &nbsp; HTML | CSS | JavaScript | React | Node.js | Express | EJS | API | Authentication | OAuth 
+- 🛢 &nbsp; MySQL | PostgreSQL | MongoDB | Mongoose | Firestore
 - 🔧 &nbsp; Python | MATLAB | C | R | Go | Linux
 
 <!-- - 🖥 &nbsp; -->
