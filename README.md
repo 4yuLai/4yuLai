@@ -20,6 +20,7 @@
 
 2022
  - Amazon Clone https://clone-7756a.web.app/
+ - Quiz App https://github.com/4yuLai/quiz_app
  - Personal Website https://4yulai.github.io/
  - DKeeper
  - DBank
