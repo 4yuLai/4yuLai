@@ -1,23 +1,26 @@
-# Hi 👋, I'm [Valerie](https://4yulai.github.io/) 
+# Hi 👋, I'm [Siyu](https://4yulai.github.io/) 
 
-<h2> 👩‍💻 About Me </h2>
-I thrive in building scalable, efficient, and user-friendly internal applications that enhance operational efficiency. With a strong foundation in JavaScript, SQL, and schema design, I specialize in creating structured, maintainable solutions that empower teams to work smarter.
+## 🛠 About Me  
 
-Technical Skills & Expertise
-✅ Retool Development – Built a fully functional suite of internal tools for data validation, input management, and process automation.
-✅ Database Design & Management – Extensive experience working with Snowflake, SQL databases, and structured schema development.
-✅ JavaScript & System Integration – Proficient in JavaScript, API integrations, and automating workflows with external services.
-✅ LLM & AI Integration – Exploring AI-driven automation for internal data processing and predictive modeling.
-✅ Process Optimization – Passionate about streamlining workflows through automation and structured data pipelines.
+I thrive in building **scalable, efficient, and user-friendly internal applications** that enhance operational efficiency.  
+With a strong foundation in **JavaScript, SQL, and schema design**, I specialize in creating **structured, maintainable solutions** that empower teams to work smarter.  
 
-Notable Work
-💡 Retool Dashboards – Developed internal dashboards for data validation, input tracking, and process automation, improving efficiency for a web investigation team.
-💡 Database Automation – Designed and managed data pipelines to enhance data consistency and streamline reporting.
-💡 Web Scraping & Investigation – Led investigations on market trends, e-commerce, and pricing models, supporting data-driven decision-making.
-💡 AI-Powered Data Processing – Researching how LLMs can assist in automating structured data extraction from diverse sources (emails, PDFs, images).
+### **Technical Skills & Expertise**  
+✅ **Retool Development** – Built a fully functional suite of internal tools for **data validation, input management, and process automation**.  
+✅ **Database Design & Management** – Extensive experience working with **Snowflake, SQL databases, and structured schema development**.  
+✅ **JavaScript & System Integration** – Proficient in **JavaScript, API integrations**, and automating workflows with external services.  
+✅ **LLM & AI Integration** – Exploring **AI-driven automation** for internal data processing and predictive modeling.  
+✅ **Process Optimization** – Passionate about **streamlining workflows through automation** and structured data pipelines.  
 
-What I’m Looking For
-I’m excited about roles where I can combine Retool development, system integration, and database automation to build high-impact internal applications. If your team is looking for a problem-solver who can bridge data, automation, and internal tooling, let’s connect!
+### **Notable Work**  
+💡 **Retool Dashboards** – Developed **internal dashboards** for **data validation, input tracking, and process automation**, improving efficiency for a web investigation team.  
+💡 **Database Automation** – Designed and managed **data pipelines** to enhance data consistency and streamline reporting.  
+💡 **Web Scraping & Investigation** – Led **investigations on market trends, e-commerce, and pricing models**, supporting **data-driven decision-making**.  
+💡 **AI-Powered Data Processing** – Researching how **LLMs can assist in automating structured data extraction** from diverse sources (**emails, PDFs, images**).  
+
+### **What I'm Looking For**  
+I'm excited about roles where I can combine **Retool development, system integration, and database automation** to build **high-impact internal applications**.  
+If your team is looking for a **problem-solver** who can bridge **data, automation, and internal tooling**, let’s connect! 
 <!--
 - ✍️ &nbsp; Pursuing Full stack development and artist /painter as hobbies/side hustles.-->
 
