@@ -1,4 +1,4 @@
-# Hi 👋, I'm [Siyu](https://4yulai.github.io/) 
+# Hi 👋, I'm Siyu
 
 ## 🛠 About Me  
 
