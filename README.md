@@ -6,11 +6,11 @@ I thrive in building **scalable, efficient, and user-friendly internal applicati
 With a strong foundation in **JavaScript, SQL, and schema design**, I specialize in creating **structured, maintainable solutions** that empower teams to work smarter.  
 
 ### **Technical Skills & Expertise**  
-✅ **Retool Development** – Built a fully functional suite of internal tools for **data validation, input management, and process automation**.  
-✅ **Database Design & Management** – Extensive experience working with **Snowflake, SQL databases, and structured schema development**.  
-✅ **JavaScript & System Integration** – Proficient in **JavaScript, API integrations**, and automating workflows with external services.  
-✅ **LLM & AI Integration** – Exploring **AI-driven automation** for internal data processing and predictive modeling.  
-✅ **Process Optimization** – Passionate about **streamlining workflows through automation** and structured data pipelines.  
+**Retool Development** – Built a fully functional suite of internal tools for **data validation, input management, and process automation**.  
+**Database Design & Management** – Extensive experience working with **Snowflake, SQL databases, and structured schema development**.  
+**JavaScript & System Integration** – Proficient in **JavaScript, API integrations**, and automating workflows with external services.  
+**LLM & AI Integration** – Exploring **AI-driven automation** for internal data processing and predictive modeling.  
+**Process Optimization** – Passionate about **streamlining workflows through automation** and structured data pipelines.  
 
 ### **Notable Work**  
 💡 **Retool Dashboards** – Developed **internal dashboards** for **data validation, input tracking, and process automation**, improving efficiency for a web investigation team.  
@@ -24,14 +24,7 @@ If your team is looking for a **problem-solver** who can bridge **data, automati
 <!--
 - ✍️ &nbsp; Pursuing Full stack development and artist /painter as hobbies/side hustles.-->
 
-<h2>🛠 Tech Stack</h2>
-- 🌐 &nbsp; HTML | CSS | JavaScript | React | Node.js | Express | EJS | API | Authentication | OAuth 
-- 🛢 &nbsp; MySQL | PostgreSQL | MongoDB | Mongoose | Firestore | Snowflake
-- 🔧 &nbsp; Python | MATLAB | C | R | Go | Linux
-
 <!-- - 🖥 &nbsp; -->
-
-Work Experience
 ## 🏗 **Problem-Solving & Approach**  
 
 One of my key strengths is the ability to take **high-level, ambiguous requests** and **transform them into well-defined, scalable solutions**.  
@@ -107,7 +100,13 @@ One of my key strengths is the ability to take **high-level, ambiguous requests*
 ✅ Made configuration changes **10x faster**.  
 ✅ Reduced downtime caused by **manual misconfigurations**. 
 
+<h2>🛠 Tech Stack</h2>
+- 🌐 &nbsp; HTML | CSS | JavaScript | React | Node.js | Express | EJS | API | Authentication | OAuth 
+- 🛢 &nbsp; MySQL | PostgreSQL | MongoDB | Mongoose | Firestore | Snowflake
+- 🔧 &nbsp; Python | MATLAB | C | R | Go | Linux
+
 <h1> Personal Projects </h1>
+
 2022
  - Amazon Clone https://clone-7756a.web.app/
  - Quiz App https://github.com/4yuLai/quiz_app
